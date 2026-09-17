@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:512BD4&height=220&section=header&text=Moaaz%20Ibrahim%20Reda&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer%20%7C%20.NET%20%26%20Cloud&descAlignY=56&descSize=18" width="100%" alt="Moaaz Ibrahim Reda - Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:512BD4&height=220&section=header&text=Moaaz%20Ibrahim%20Reda&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Software%20Engineer%20%7C%20.NET%20%26amp%3B%20Cloud&descAlignY=56&descSize=18" width="100%" alt="Moaaz Ibrahim Reda - Header Banner" />
   
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend-Focused+Software+Engineer+%E2%9A%A1;Clean+Architecture+%7C+SOLID+%7C+Design+Patterns+%F0%9F%8F%9B%EF%B8%8F;ASP.NET+Core+%2B+EF+Core+%2B+SQL+Server+%2B+Docker+%F0%9F%9A%80;Full-Stack+with+React+19+%2B+Google+Gemini+AI+%F0%9F%A4%96;CS+Student+%40+Ain+Shams+University+(GPA+3.8%2F4.0)+%F0%9F%8E%93" alt="Typing Tagline Animation" />
@@ -156,10 +156,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=MmoaazM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58A6FF&icon_color=2F81F7&text_color=c9d1d9&bg_color=0D1117" alt="Moaaz's GitHub Stats" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=MmoaazM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58A6FF&icon_color=2F81F7&text_color=c9d1d9&bg_color=0D1117" alt="Moaaz's GitHub Stats" />
       </td>
       <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MmoaazM&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" alt="Moaaz's Top Languages" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MmoaazM&layout=compact&theme=tokyonight&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0D1117" alt="Moaaz's Top Languages" />
       </td>
     </tr>
   </table>
